@@ -1,0 +1,2 @@
+C:\Users\Игорь\source\repos\DostavkaEdy\x64\Debug\DostavkaEdy.exe.lastcodeanalysissucceeded
+C:\Users\Игорь\source\repos\DostavkaEdy\DostavkaEdy\x64\Debug\NativeCodeAnalysis.read.1.tlog

@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="DostavkaEdy/DostavkaEdy.vcxproj" Id="15c78edf-20dc-4bed-8ac4-e144ec41c3f1" />
+</Solution>
